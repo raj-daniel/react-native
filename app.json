@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ExpoApp",
-    "slug": "ExpoApp",
+    "name": "sampleApp",
+    "slug": "sampleApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,14 +18,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "io.codemagic.expoapp"
+      "bundleIdentifier": "com.cm.io"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "io.codemagic.expoapp"
+      "package": "com.cm.io"
     },
     "web": {
       "favicon": "./assets/favicon.png"
